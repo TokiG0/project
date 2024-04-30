@@ -1,0 +1,18 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    min-width: 250px;
+    height: 50px;
+  
+
+}
+.forma{
+    border: none;
+    appearance: none;
+    padding: 0px 30px 0px 15px;
+    width: 100%;
+    color:white;
+    background-color: #2874F0;
+    font-size: 20px;
+}
